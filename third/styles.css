@@ -1,0 +1,55 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.grey {
+	height: 15%;
+	width: 100%;
+	background-color: rgb(207, 207, 207);
+	padding: 15px;
+}
+
+.grey .blueBox {
+	height: 45px;
+	width: 45px;
+	padding: 15px;
+	background-color: rgb(60, 123, 218);
+}
+
+.white {
+	height: 135px;
+	width: 100%;
+	padding: 25px;
+	background-color: white;
+}
+
+.blue {
+	height: 15%;
+	width: 100%;
+	background-color: rgb(60, 123, 218);
+	padding: 15px;
+}
+
+.turquoise {
+	height: 15%;
+	width: 100%;
+	background-color: rgb(70, 224, 181);
+	padding: 15px;
+}
+
+.green {
+	height: 15%;
+	width: 100%;
+	background-color: rgb(171, 231, 116);
+	padding: 15px;
+}
+
+.yellow {
+	height: 15%;
+	width: 100%;
+	background-color: rgb(246, 229, 24);
+	padding: 15px;
+}
