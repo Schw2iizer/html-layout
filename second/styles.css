@@ -1,0 +1,34 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+.left {
+	float: left;
+	height: 100%;
+	width: 33.3%;
+	background-color: rgb(101, 143, 222);
+}
+
+.middle {
+	float: left;
+	height: 100%;
+	width: 33.3%;
+	background-color: rgb(70, 224, 181);
+}
+
+.right {
+	float: right;
+	height: 100%;
+	width: 33.4%;
+	background-color: rgb(171, 231, 116);
+	position: relative;
+}
+
+.right .pic {
+	position: absolute;
+	bottom: 0;
+	width:100%;
+	height: 150px;
+	background: white url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXyHf6v_mZ7OF6eUWVzO5LvLC-L3lu_Ya4ji_ABeT-pvIrt3W3Uw) no-repeat center;
+}
